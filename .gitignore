@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+selenium-debug.log
+fe/test/unit/coverage
+fe/test/e2e/reports
+start.sh
+.avoscloud
+
+# VIM
+*~
+*.swp
